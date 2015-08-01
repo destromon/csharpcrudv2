@@ -1,0 +1,12 @@
+D:\Documents\The Next Big\TheNextBig\Big\bin\Debug\Big.exe.config
+D:\Documents\The Next Big\TheNextBig\Big\bin\Debug\Big.exe
+D:\Documents\The Next Big\TheNextBig\Big\bin\Debug\Big.pdb
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.csprojResolveAssemblyReference.cache
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.Form1.resources
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.Properties.Resources.resources
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.csproj.GenerateResource.Cache
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.exe
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.pdb
+D:\Documents\The Next Big\TheNextBig\Big\bin\Debug\MySql.Data.dll
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.frmConfig.resources
+D:\Documents\The Next Big\TheNextBig\Big\obj\Debug\Big.frmOrder.resources
